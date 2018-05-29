@@ -2,6 +2,13 @@
     {
         "moduleName" : "module1",
         "path"       : "modules/module1/module1.py",
+        "execute"    : false ,
+        "description": "",
+        "owner"      : ""
+    },
+    {
+        "moduleName" : "unetTest",
+        "path"       : "modules/unetTest/unetTest.py",
         "execute"    : true ,
         "description": "",
         "owner"      : ""
