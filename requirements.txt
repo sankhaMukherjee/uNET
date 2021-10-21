@@ -4,7 +4,7 @@ appnope==0.1.0
 astor==0.6.2
 atomicwrites==1.1.5
 attrs==18.1.0
-Babel==2.6.0
+Babel==2.9.1
 backcall==0.1.0
 bleach==1.5.0
 branca==0.3.0
